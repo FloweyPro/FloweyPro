@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I use Linux mint**
 
+- Discord: https://discord.gg/7aFEpS94
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
