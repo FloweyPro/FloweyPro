@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/terminal.png" alt="bash" width="40" height="40"/>
+    <img src="https://icons-for-free.com/iff/png/512/bash+dark-1331550886960171470.png" alt="bash" width="40" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
