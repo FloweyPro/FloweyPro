@@ -4,9 +4,9 @@
 ---
 
 <p align="center">
-  <p>🌱 I’m currently learning C++</p>
-  <p>💬 Ask me about C++ and Godot</p>
-  <p>⚡ Fun fact: I use Linux Mint</p>
+  🌱 I’m currently learning C++
+  <center>💬 Ask me about C++ and Godot</center>
+  <end>⚡ Fun fact: I use Linux Mint</end>
 </p>
 
 <p align="center">
