@@ -54,10 +54,7 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/scikit-learn.png" alt="scikit_learn" width="40" height="40"/>
-  </a> 
+  </a>
 </p>
 
 ---
