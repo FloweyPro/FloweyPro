@@ -3,11 +3,11 @@
 
 ---
 
-<p>
-  🌱 I’m currently learning C++
-  💬 Ask me about C++ and Godot
-  ⚡ Fun fact: I use Linux Mint
-</p>
+
+<p>🌱 I’m currently learning C++</p>
+<p>💬 Ask me about C++ and Godot</p>
+<p>⚡ Fun fact: I use Linux Mint</p>
+
 
 <p align="center">
   Discord: (https://discord.gg/7aFEpS94)
