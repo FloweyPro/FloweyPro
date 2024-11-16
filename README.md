@@ -15,13 +15,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add other social links here if you want -->
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
