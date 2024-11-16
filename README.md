@@ -5,8 +5,8 @@
 
 <p align="center">
   🌱 I’m currently learning C++
-  <center>💬 Ask me about C++ and Godot</center>
-  <end>⚡ Fun fact: I use Linux Mint</end>
+  💬 Ask me about C++ and Godot
+  ⚡ Fun fact: I use Linux Mint
 </p>
 
 <p align="center">
