@@ -2,13 +2,13 @@
 <h3 align="center">A passionate gamer developer</h3>
 
 <p align="center">
-  🌱 I’m currently learning **C++**  
-  💬 Ask me about **C++** and **Godot**  
-  ⚡ Fun fact: I use **Linux Mint**  
+  <p>🌱 I’m currently learning C++</p>
+  <p>💬 Ask me about C++ and Godot</p>
+  <p>⚡ Fun fact: I use Linux Mint</p>
 </p>
 
 <p align="center">
-  Discord: [floweypro](https://discord.gg/7aFEpS94)
+  Discord: (https://discord.gg/7aFEpS94)
 </p>
 
 ---
