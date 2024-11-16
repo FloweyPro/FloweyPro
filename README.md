@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flowey pro</h1>
 <h3 align="center">A passionate gamer developer</h3>
 
+---
+
 <p align="center">
   <p>🌱 I’m currently learning C++</p>
   <p>💬 Ask me about C++ and Godot</p>
