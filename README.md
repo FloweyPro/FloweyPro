@@ -56,13 +56,3 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="python" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floweypro&show_icons=true&locale=en&layout=compact" alt="floweypro"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=floweypro&" alt="floweypro"/>
-</p>
